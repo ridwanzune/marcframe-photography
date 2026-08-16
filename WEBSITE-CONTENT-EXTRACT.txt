@@ -1,0 +1,187 @@
+============================================================================
+MARCFRAME PHOTOGRAPHY - WEBSITE CONTENT EXTRACTION
+============================================================================
+Website: https://marcframephotography.mypixieset.com/
+Platform: Pixieset (Flex theme)
+Extracted: 2026-08-16
+Site owner: Marcus (photographer)
+============================================================================
+
+----------------------------------------------------------------------------
+1. SITE OVERVIEW
+----------------------------------------------------------------------------
+Site name:            MarcFrame Photography
+Domain:               marcframephotography.mypixieset.com
+SEO description:      (empty - none set)
+Canonical URL:        https://marcframephotography.mypixieset.com/
+Site copyright:       (c) 2025 Pixieset
+Powered by:           Pixieset (https://pixieset.com/website/)
+Meta generator:       Pixieset
+Open Graph title:     MarcFrame Photography
+Twitter card:         summary
+
+Pages on the site (3):
+  1. Home     - https://marcframephotography.mypixieset.com/
+  2. Pricing  - https://marcframephotography.mypixieset.com/pricing/
+  3. Contact  - https://marcframephotography.mypixieset.com/contact/
+
+Navigation menu (all pages): Home | Pricing | Contact
+
+----------------------------------------------------------------------------
+2. HOME PAGE - https://marcframephotography.mypixieset.com/
+----------------------------------------------------------------------------
+Page title: MarcFrame Photography
+
+HERO SECTION:
+  Tagline:        less stress, more memories
+  Main heading:   Professional Photography
+                  at a Budget
+
+ABOUT SECTION:
+  Heading:   About me
+  Body:      Hi, I'm Marcus. I specialise in portrait and event photography
+             on the Gold Coast. I offer cheap packages for those who want
+             quality photos on a budget. If you are looking to upgrade your
+             portfolio or take pictures of beautiful moments in your life,
+             feel free to contact me and I will make sure you receive the
+             best shots in life.
+
+WORKS / GALLERY SECTION:
+  Heading:   My Works
+  Content:   Photo slideshow gallery containing 12 photographs:
+    - IMG_8030        (portrait)
+    - IMG_7424        (portrait)
+    - IMG_7785        (portrait)
+    - IMG_7852        (portrait)
+    - IMG_0005_01     (portrait)
+    - IMG_0019_01     (portrait)
+    - IMG_0042        (portrait)
+    - IMG_0022_03     (portrait)
+    - IMG_0066        (portrait)
+    - IMG_0054        (portrait)
+    - IMG_0044_01     (portrait)
+    - IMG_0046        (portrait)
+  (Hero image: IMG-20260729-WA0029)
+
+FOOTER (all pages):
+  Heading:            Get in touch
+  Link:               Send a message  -> /contact/
+  Instagram label:    follow me on instagram
+  Instagram handle:   @marcs_photojourney
+  Copyright:          (c) 2025 Pixieset
+
+----------------------------------------------------------------------------
+3. PRICING PAGE - https://marcframephotography.mypixieset.com/pricing/
+----------------------------------------------------------------------------
+Page title: Pricing - MarcFrame Photography
+
+Two pricing package cards, each with an "Inquire" button -> /contact/
+
+======================================================================
+FLYER 1: MONTHLY RETAINER PACKAGES (Retainerdeals.png)
+======================================================================
+
+  BASIC RETAINER
+  - 1 Hour Photoshoot session per week
+  - All photos edited
+  - Price: $350/month
+
+  PREMIUM RETAINER
+  - 2-3 hour Photoshoot session per week
+  - All photos edited
+  - Price: $600/month
+
+  SOCIAL MEDIA REFRESHER
+  - 1 Hour Photoshoot session
+  - 25-50 photos edited
+  - Price: $75/session
+
+  UNI CLUB RETAINER
+  - 1 Hour Photoshoot
+  - Multiple Locations
+  - 20-60 edited photos
+  - Price: $50/session or $500/semester
+
+======================================================================
+FLYER 2: INDIVIDUAL AND EVENT PACKAGES (IndividualandeventPackageFlyer-1.png)
+======================================================================
+
+  EVENT/PARTY COVERAGE
+  - 1-4 Hour Photoshoot session
+  - 20-200 photos edited
+  - 1 hr: $125
+  - 2 hrs: $200 (save $50)
+  - 4 hrs: $350 (save $150)
+
+  PROFESSIONAL HEADSHOTS AND GRADUATION PHOTOS
+  - 10 high quality edited photos of each person
+  - 20 min photoshoot session
+  - $40 flat fee
+  - $20/individual for more than one individual
+
+  BLITZ PHOTO SESSION
+  - 10-20 min Photoshoot session
+  - Multiple Locations
+  - 6-15 edited photos
+  - Price: $20/session and location
+
+----------------------------------------------------------------------------
+4. CONTACT PAGE - https://marcframephotography.mypixieset.com/contact/
+----------------------------------------------------------------------------
+Page title: Contact - MarcFrame Photography
+
+Heading:   Send me a message
+
+CONTACT FORM:
+  Field 1: Name          (required, text)
+  Field 2: Email address (required, email)
+  Field 3: Message       (required, textarea)
+  Button:  Send Message
+  (Form posts to /contact/ with CSRF + Cloudflare Turnstile protection)
+
+CONTACT DETAILS:
+  EMAIL:  marcfyphotography0219@gmail.com
+  TEL:    0403 391 742
+
+----------------------------------------------------------------------------
+5. ALL LINKS ON THE SITE
+----------------------------------------------------------------------------
+  MarcFrame Photography (logo)  -> https://marcframephotography.mypixieset.com/
+  Home                           -> https://marcframephotography.mypixieset.com/
+  Pricing                        -> https://marcframephotography.mypixieset.com/pricing/
+  Contact                        -> https://marcframephotography.mypixieset.com/contact/
+  Send a message (footer)        -> https://marcframephotography.mypixieset.com/contact/
+  Inquire (pricing cards x2)     -> https://marcframephotography.mypixieset.com/contact/
+  Powered by Pixieset            -> https://pixieset.com/website/?utm_source=pixieset&utm_medium=ugc&utm_content=website
+
+----------------------------------------------------------------------------
+6. IMAGE INVENTORY (all photos on the site)
+----------------------------------------------------------------------------
+Hero/banner:        IMG-20260729-WA0029 (WhatsApp image)
+Gallery (12 shots): IMG_8030, IMG_7424, IMG_7785, IMG_7852, IMG_0005_01,
+                    IMG_0019_01, IMG_0042, IMG_0022_03, IMG_0066, IMG_0054,
+                    IMG_0044_01, IMG_0046
+Pricing flyers:     Retainerdeals.png, IndividualandeventPackageFlyer-1.png
+
+All images are stored at:
+  https://images-pw.pixieset.com/site/BZY0kM/<folder>/<filename>
+  (5 sizes each: 300 / 500 / 1000 / 1500 / 2500 px)
+
+----------------------------------------------------------------------------
+7. BUSINESS SUMMARY
+----------------------------------------------------------------------------
+  Business:  MarcFrame Photography
+  Owner:     Marcus
+  Services:  Portrait photography, Event photography
+  Location:  Gold Coast, Australia
+  USP:       Cheap/affordable packages, quality photos on a budget,
+             portfolio upgrades
+  Slogan:    "less stress, more memories"
+  Contact (website):  marcfyphotography0219@gmail.com | 0403 391 742
+  Contact (flyers):   marcfyphotography@gmail.com | 0403 391 742
+  Instagram:          @marcs_photojourney
+  Website:            https://marcframephotography.pixieset.com/
+
+============================================================================
+END OF EXTRACTION
+============================================================================

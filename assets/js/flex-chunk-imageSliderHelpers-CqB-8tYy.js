@@ -1,0 +1,5 @@
+
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="eae9cb0b-004f-52b1-90b3-9d6b59a2d538")}catch(e){}}();
+var e=(e,t)=>e&&t.includes(`sideways`)?`calc(100% - var(--grid-col-width)* 2 - var(--elements-spacing-gap)* 2)`:`100%`,t=e=>({p1:`paragraph-1`,p2:`paragraph-2`,p3:`paragraph-3`,h4:``,h5:``,h6:``})[e],n=(e,t=!0)=>e===`none`?`0`:t?e===`more`?`calc(var(--grid-col-width)/2)`:` calc(var(--elements-spacing-gap)/2)`:e===`more`?`var(--grid-col-width)`:`var(--elements-spacing-gap)`,r=e=>e>18?8:e>12&&e<19?6:4,i=(e,t)=>e.includes(`sideways`)&&t?`calc(50% - var(--grid-row-height) *3 + var(--elements-spacing-gap) *2)`:e.includes(`below`)?`0`:`50%`;export{r as a,e as i,i as n,t as r,n as t};
+//# sourceMappingURL=flex-chunk-imageSliderHelpers-CqB-8tYy.js.map
+//# debugId=eae9cb0b-004f-52b1-90b3-9d6b59a2d538
